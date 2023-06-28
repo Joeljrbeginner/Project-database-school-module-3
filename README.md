@@ -1,4 +1,4 @@
-# Project-database-school-modu
+# Project Database School
 Resilia Education Database
 Descrição curta do projeto.
 
